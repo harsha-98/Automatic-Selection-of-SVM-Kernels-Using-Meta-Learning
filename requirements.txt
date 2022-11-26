@@ -1,0 +1,5 @@
+pandas
+sklearn
+pykrige
+scikit-gstat
+pymfe
